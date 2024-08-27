@@ -27,7 +27,7 @@ function get_option(value)
     const textElement = document.getElementById("text");
     const resultElement = document.getElementById("result");
 
-    if (/^[a-z]+$/.test(textElement.value)) {
+    if (/^[a-z\s]+$/.test(textElement.value)) {
         console.log("The value is valid.");
         const text = textElement.value.toLowerCase();
         
