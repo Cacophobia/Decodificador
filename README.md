@@ -1,6 +1,6 @@
 # Scuffed Decoder 
 
-O objetivo desse Challenge era desenvolver um decodificador de texto em Javascript, onde pudesse criptografar um texto e depois descriptografar para o texto original. Neste projeto, é possivel fazer a criptografa e descriptografa textos de acordo com algumas regras específicas.
+O objetivo desse Challenge era desenvolver um decodificador de texto em Javascript, que pudesse criptografar um texto e depois descriptografar para o texto original.
 
 ## Descrição
 
