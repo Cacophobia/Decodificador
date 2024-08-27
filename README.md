@@ -12,7 +12,7 @@ A criptografia segue seguintes regras:
 * A letra "o" é convertida para "ober"
 * A letra "u" é convertida para "ufat"
 
-É possível converter uma palavra para a versão criptografada e também retornar uma palavra criptografada para a versão original. A página tem um campo para inserção do texto a ser criptografado ou descriptografado, e o usuário pode escolher entre as duas opções. O resultado da criptografia ou descriptografia é exibido na tela. Há também um botão que permite que o usuário copie o texto criptografado/descriptografado.
+O decodificador permite que o usuário converta uma palavra para sua forma criptografada ou, inversamente, descriptografe uma palavra para sua forma original. A interface inclui um campo onde o usuário pode inserir o texto desejado e selecionar a opção de criptografia ou descriptografia. O resultado é exibido na tela, e há um botão disponível para copiar o texto gerado, seja ele criptografado ou descriptografado.
 
 ## Tecnologias Utilizadas
 
